@@ -1,0 +1,55 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.vs/
+
+# Secrets
+.env
+.env.*
+!.env.example
+appsettings.json
+appsettings.*.json
+!appsettings.example.json
+*.pfx
+*.pem
+*.key
+*.cer
+
+# Dependencies and builds
+node_modules/
+dist/
+build/
+bin/
+obj/
+__pycache__/
+*.pyc
+
+# Generated packages and executables
+*.exe
+*.dll
+*.pdb
+*.zip
+*.7z
+*.rar
+
+# Local business data
+*.xlsx
+*.xls
+*.csv
+*.sqlite
+*.db
+*.bak
+*.sql
+
+# Browser / automation sensitive state
+storageState.json
+cookies.json
+user-data-dir/
+Chrome User Data/
+debug.txt
+*.har
+*.trace
+screenshots/
+captures/
+
