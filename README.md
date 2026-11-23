@@ -39,7 +39,7 @@
 - SaaS admin console prototype
 - Browser automation and desktop workflow tooling
 
-不建議把它們描述成已正式營運的完整商用產品。比較好的說法是：我把真實需求拆成可執行的系統原型，並補上部署、測試、操作與風險控管文件。
+我從實際營運流程出發，開發商家管理介面、後端 API 與自動化工具，處理訂單管理、電子發票作業和資料遷移。各案例記錄功能設計與驗證方式，也涵蓋操作流程、錯誤處理或部署準備。
 
 ## Repository Contents
 
