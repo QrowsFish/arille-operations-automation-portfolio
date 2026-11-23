@@ -49,17 +49,6 @@
 └── publishing-checklist.md
 ```
 
-## Source Locations Used For This Portfolio
-
-本作品集整理自本機既有成果與文件：
-
-- `C:\Users\Arille\Desktop\Ibirdy`
-- `C:\Users\Arille\Desktop\IBirdy-main`
-- `C:\Users\Arille\Desktop\JJ-Python-Portfolio`
-- `C:\Users\Arille\Desktop\新版自動發文程式`
-- `C:\Users\Arille\Documents\Codex\2026-08-03\new-chat-3`
-- `C:\Users\Arille\Documents\Codex\2026-08-25\new-chat\outputs\github-portfolio-projects`
-
 ## Before Publishing
 
 請先跑完 [publishing-checklist.md](publishing-checklist.md)。尤其要確認沒有上傳 `.env`、`appsettings.json` 真實連線字串、Excel 正式資料、Facebook 群組網址、使用者截圖、cookies、Chrome profile、資料庫 dump 或大型 `.exe`。
