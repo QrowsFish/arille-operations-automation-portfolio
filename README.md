@@ -11,8 +11,15 @@
 | [IBirdy SaaS Commerce API](projects/ibirdy-saas-commerce-api.md) | 多租戶電商營運後端、訂單、商品、庫存、社群訊息整合 | ASP.NET Core, SQL Server, EF Core, Dapper, JWT, Hangfire |
 | [IBirdy Merchant Operations Console](projects/ibirdy-merchant-operations-console.md) | 商家後台、營運儀表板、社群訂單、最新 IBirdy 自動上架工具 | Vue 3, Vite, Pinia, Element Plus, Playwright, Chrome Extension |
 | [Electronic Invoice Value Center](projects/invoice-value-center.md) | 電子發票加值中心原型、非同步佇列、webhook、營運文件 | Node.js, REST API, Worker, Docker, HMAC |
+| [會員與訂單資料遷移工具](projects/member-order-migration.md) | 歷史訂單分段匯出、會員關聯、Excel 匯入前核對 | C# / .NET 8, WPF, Playwright, ClosedXML |
 | [JJ Auto Listing Publisher](projects/jj-auto-listing-publisher.md) | Excel 驅動 Facebook 社團排程發文與桌面工具包 | Playwright, Node.js, xlsx, .NET WinForms |
 | [Legacy PHP To Python Port](projects/legacy-php-to-python-port.md) | 舊 PHP 團購系統盤點、路由映射、Python Web 移植基礎 | Python, Flask/FastAPI path, Jinja2 path, Docker, Playwright |
+
+## 專案畫面
+
+| IBirdy 商家首頁 | 電子發票加值中心 |
+| --- | --- |
+| [![IBirdy 商家首頁預覽](assets/ibirdy-merchant-dashboard.png)](projects/ibirdy-merchant-operations-console.md) | [![電子發票加值中心營運總覽](assets/invoice-dashboard.png)](projects/invoice-value-center.md) |
 
 ## What This Portfolio Shows
 
@@ -44,7 +51,9 @@
 │   ├── ibirdy-merchant-operations-console.md
 │   ├── invoice-value-center.md
 │   ├── jj-auto-listing-publisher.md
+│   ├── member-order-migration.md
 │   └── legacy-php-to-python-port.md
+├── assets/
 ├── resume-project-summaries.md
 └── publishing-checklist.md
 ```

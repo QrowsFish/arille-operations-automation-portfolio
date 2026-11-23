@@ -7,6 +7,12 @@
 
 這個專案是一個電子發票加值中心與 SaaS 營運控制台原型。重點在於把發票平台需要面對的流程拆開：API 建立發票、冪等控制、Turnkey 類型非同步佇列、worker 重試、webhook 通知、租戶隔離、稽核紀錄、監控、備份、資安與送審文件。
 
+## 營運控制台
+
+![加值中心總覽，顯示發票生命週期、待傳輸佇列與送審準備度](../assets/invoice-dashboard.png)
+
+畫面使用示範商店和測試監控值。總覽讓平台管理員查看近期發票、待傳輸任務與送審準備項目。
+
 ## What I Built
 
 - Node.js web application for value-center operations

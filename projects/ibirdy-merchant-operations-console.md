@@ -9,6 +9,19 @@ IBirdy Merchant Operations Console 是一個 Vue 3 / Vite 前端專案，用來�
 
 最新的 IBirdy 自動上架也整理在這個專案脈絡內：它不是只有畫面，而是包含前端工具入口、Chrome extension、Native host / Node server、Playwright 關留言或自動化流程、客戶使用文件與可下載工具包。
 
+## 商家介面預覽
+
+![IBirdy 商家首頁，顯示營運指標、快速入口與商家自動化工具](../assets/ibirdy-merchant-dashboard.png)
+
+商家首頁集中呈現待處理訂單、進行中團購、低庫存與逾期到貨。畫面也整合商品模板、團購收單與商家端自動化工具入口。
+
+<details>
+<summary>查看社群營運導覽</summary>
+
+![IBirdy 側邊導覽，顯示團購收單、Facebook、LINE、Instagram 和 Plurk 模組](../assets/ibirdy-social-navigation.png)
+
+</details>
+
 ## What I Built
 
 - Vue 3 single-page admin / merchant console
