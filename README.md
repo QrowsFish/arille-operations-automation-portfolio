@@ -54,11 +54,10 @@
 │   ├── member-order-migration.md
 │   └── legacy-php-to-python-port.md
 ├── assets/
-├── resume-project-summaries.md
-└── publishing-checklist.md
+└── resume-project-summaries.md
 ```
 
-## Before Publishing
+## 展示內容
 
-請先跑完 [publishing-checklist.md](publishing-checklist.md)。尤其要確認沒有上傳 `.env`、`appsettings.json` 真實連線字串、Excel 正式資料、Facebook 群組網址、使用者截圖、cookies、Chrome profile、資料庫 dump 或大型 `.exe`。
+作品集收錄專案案例、系統架構與操作畫面。加值中心畫面採用示範商店，資料遷移案例以合成資料呈現匯入前的驗證流程。
 
